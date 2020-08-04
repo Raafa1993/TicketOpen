@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290.095" height="72.666" viewBox="0 0 290.095 72.666">
+  <g id="Marca" transform="translate(157.174 106.641) rotate(-135)">
+    <text id="TicketOpen" transform="translate(87.013 -24.823) rotate(135)" fill="#fff" font-size="41" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">TicketOpen</tspan></text>
+    <g id="bilhete2" transform="translate(111.779 -5.394) rotate(-135)">
+      <path id="Caminho_33" data-name="Caminho 33" d="M39.88,0V63.808l-3.988-4.351L31.9,63.808l-3.988-4.351-3.988,4.351L19.94,59.457l-3.988,4.351-3.988-4.351L7.976,63.808,3.988,59.457,0,63.808V0L3.988,4.351,7.976,0l3.988,4.351L15.952,0,19.94,4.351,23.928,0l3.988,4.351L31.9,0l3.988,4.351Z" fill="#8186d5"/>
+      <g id="Grupo_26" data-name="Grupo 26" transform="translate(6.598 37.922)">
+        <path id="Caminho_34" data-name="Caminho 34" d="M13.632,2.9H1.45a1.45,1.45,0,0,1,0-2.9H13.632a1.45,1.45,0,0,1,0,2.9Z" transform="translate(5.801)" fill="#00acea"/>
+        <path id="Caminho_35" data-name="Caminho 35" d="M25.233,2.9H1.45a1.45,1.45,0,1,1,0-2.9H25.233a1.45,1.45,0,1,1,0,2.9Z" transform="translate(0 5.801)" fill="#00acea"/>
+        <path id="Caminho_36" data-name="Caminho 36" d="M25.233,2.9H1.45a1.45,1.45,0,1,1,0-2.9H25.233a1.45,1.45,0,1,1,0,2.9Z" transform="translate(0 11.601)" fill="#00acea"/>
+      </g>
+    </g>
+    <g id="bilhete1" transform="translate(150.991 -0.178) rotate(-173)">
+      <path id="Caminho_33-2" data-name="Caminho 33" d="M39.88,0V63.808l-3.988-4.351L31.9,63.808l-3.988-4.351-3.988,4.351L19.94,59.457l-3.988,4.351-3.988-4.351L7.976,63.808,3.988,59.457,0,63.808V0L3.988,4.351,7.976,0l3.988,4.351L15.952,0,19.94,4.351,23.928,0l3.988,4.351L31.9,0l3.988,4.351Z" fill="#494ca2"/>
+      <g id="Grupo_26-2" data-name="Grupo 26" transform="translate(6.598 37.922)">
+        <path id="Caminho_34-2" data-name="Caminho 34" d="M13.632,2.9H1.45a1.45,1.45,0,0,1,0-2.9H13.632a1.45,1.45,0,0,1,0,2.9Z" transform="translate(5.801)" fill="#55d976"/>
+        <path id="Caminho_35-2" data-name="Caminho 35" d="M25.233,2.9H1.45a1.45,1.45,0,1,1,0-2.9H25.233a1.45,1.45,0,1,1,0,2.9Z" transform="translate(0 5.801)" fill="#55d976"/>
+        <path id="Caminho_36-2" data-name="Caminho 36" d="M25.233,2.9H1.45a1.45,1.45,0,1,1,0-2.9H25.233a1.45,1.45,0,1,1,0,2.9Z" transform="translate(0 11.601)" fill="#55d976"/>
+      </g>
+    </g>
+  </g>
+</svg>
